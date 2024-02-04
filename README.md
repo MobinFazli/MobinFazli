@@ -33,13 +33,6 @@
 </div>
 
 ###
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MobinFazli/count.svg?"  />
-</div>
-
-###
 
 <br clear="both">
 
